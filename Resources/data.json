@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "date": "2025-07-28T00:00:00Z",
+    "description": "July apartment rent",
+    "amount": 1732.51,
+    "category": "housing"
+  },
+  {
+    "id": "2",
+    "date": "2025-07-18T00:00:00Z",
+    "description": "Monthly lease",
+    "amount": 1511.11,
+    "category": "housing"
+  },
+  {
+    "id": "3",
+    "date": "2025-07-22T00:00:00Z",
+    "description": "Fast food stop",
+    "amount": 62.64,
+    "category": "food"
+  },
+  {
+    "id": "4",
+    "date": "2025-07-21T00:00:00Z",
+    "description": "Coffee and pastry",
+    "amount": 20.3,
+    "category": "food"
+  },
+  {
+    "id": "5",
+    "date": "2025-07-16T00:00:00Z",
+    "description": "Dinner with friends",
+    "amount": 33.69,
+    "category": "food"
+  },
+  {
+    "id": "6",
+    "date": "2025-07-26T00:00:00Z",
+    "description": "Fast food stop",
+    "amount": 74.16,
+    "category": "food"
+  },
+  {
+    "id": "7",
+    "date": "2025-07-06T00:00:00Z",
+    "description": "Bought snacks",
+    "amount": 57.1,
+    "category": "food"
+  },
+  {
+    "id": "8",
+    "date": "2025-07-18T00:00:00Z",
+    "description": "Ordered pizza",
+    "amount": 44.63,
+    "category": "food"
+  },
+  {
+    "id": "9",
+    "date": "2025-07-11T00:00:00Z",
+    "description": "Ordered pizza",
+    "amount": 28.91,
+    "category": "food"
+  },
+  {
+    "id": "10",
+    "date": "2025-07-01T00:00:00Z",
+    "description": "Dinner with friends",
+    "amount": 28.49,
+    "category": "food"
+  },
+  {
+    "id": "11",
+    "date": "2025-07-27T00:00:00Z",
+    "description": "Dinner with friends",
+    "amount": 27.01,
+    "category": "food"
+  },
+  {
+    "id": "12",
+    "date": "2025-07-13T00:00:00Z",
+    "description": "Lunch at local diner",
+    "amount": 21.35,
+    "category": "food"
+  },
+  {
+    "id": "13",
+    "date": "2025-07-15T00:00:00Z",
+    "description": "Ordered pizza",
+    "amount": 57.19,
+    "category": "food"
+  },
+  {
+    "id": "14",
+    "date": "2025-07-25T00:00:00Z",
+    "description": "Bought snacks",
+    "amount": 37.72,
+    "category": "food"
+  },
+  {
+    "id": "15",
+    "date": "2025-07-01T00:00:00Z",
+    "description": "Bike rental",
+    "amount": 51.47,
+    "category": "transportation"
+  },
+  {
+    "id": "16",
+    "date": "2025-07-28T00:00:00Z",
+    "description": "Metro pass",
+    "amount": 42.06,
+    "category": "transportation"
+  },
+  {
+    "id": "17",
+    "date": "2025-07-24T00:00:00Z",
+    "description": "Bus fare",
+    "amount": 54.78,
+    "category": "transportation"
+  },
+  {
+    "id": "18",
+    "date": "2025-07-06T00:00:00Z",
+    "description": "Uber to work",
+    "amount": 35.54,
+    "category": "transportation"
+  },
+  {
+    "id": "19",
+    "date": "2025-07-07T00:00:00Z",
+    "description": "Taxi ride",
+    "amount": 30.06,
+    "category": "transportation"
+  },
+  {
+    "id": "20",
+    "date": "2025-07-27T00:00:00Z",
+    "description": "Taxi ride",
+    "amount": 31.31,
+    "category": "transportation"
+  },
+  {
+    "id": "21",
+    "date": "2025-07-21T00:00:00Z",
+    "description": "Bike rental",
+    "amount": 51.48,
+    "category": "transportation"
+  },
+  {
+    "id": "22",
+    "date": "2025-07-19T00:00:00Z",
+    "description": "Uber to work",
+    "amount": 36.21,
+    "category": "transportation"
+  },
+  {
+    "id": "23",
+    "date": "2025-07-24T00:00:00Z",
+    "description": "Medical check-up",
+    "amount": 106.81,
+    "category": "healthcare"
+  },
+  {
+    "id": "24",
+    "date": "2025-07-09T00:00:00Z",
+    "description": "Bought supplements",
+    "amount": 172.67,
+    "category": "healthcare"
+  },
+  {
+    "id": "25",
+    "date": "2025-07-14T00:00:00Z",
+    "description": "Therapy session",
+    "amount": 138.83,
+    "category": "healthcare"
+  },
+  {
+    "id": "26",
+    "date": "2025-07-31T00:00:00Z",
+    "description": "Doctor appointment",
+    "amount": 103.28,
+    "category": "healthcare"
+  },
+  {
+    "id": "27",
+    "date": "2025-07-20T00:00:00Z",
+    "description": "Therapy session",
+    "amount": 94.97,
+    "category": "healthcare"
+  },
+  {
+    "id": "28",
+    "date": "2025-07-18T00:00:00Z",
+    "description": "Doctor appointment",
+    "amount": 52.37,
+    "category": "healthcare"
+  },
+  {
+    "id": "29",
+    "date": "2025-07-16T00:00:00Z",
+    "description": "Night out with friends",
+    "amount": 29.55,
+    "category": "entertainment"
+  },
+  {
+    "id": "30",
+    "date": "2025-07-17T00:00:00Z",
+    "description": "Video game purchase",
+    "amount": 66.73,
+    "category": "entertainment"
+  },
+  {
+    "id": "31",
+    "date": "2025-07-18T00:00:00Z",
+    "description": "Movie night",
+    "amount": 39.7,
+    "category": "entertainment"
+  },
+  {
+    "id": "32",
+    "date": "2025-07-16T00:00:00Z",
+    "description": "Night out with friends",
+    "amount": 49.09,
+    "category": "entertainment"
+  },
+  {
+    "id": "33",
+    "date": "2025-07-16T00:00:00Z",
+    "description": "Video game purchase",
+    "amount": 82.14,
+    "category": "entertainment"
+  },
+  {
+    "id": "34",
+    "date": "2025-07-30T00:00:00Z",
+    "description": "Video game purchase",
+    "amount": 54.67,
+    "category": "entertainment"
+  },
+  {
+    "id": "35",
+    "date": "2025-07-08T00:00:00Z",
+    "description": "Night out with friends",
+    "amount": 18.96,
+    "category": "entertainment"
+  },
+  {
+    "id": "36",
+    "date": "2025-07-01T00:00:00Z",
+    "description": "Movie night",
+    "amount": 96.5,
+    "category": "entertainment"
+  },
+  {
+    "id": "37",
+    "date": "2025-07-05T00:00:00Z",
+    "description": "Seminar registration",
+    "amount": 45.33,
+    "category": "education"
+  },
+  {
+    "id": "38",
+    "date": "2025-07-19T00:00:00Z",
+    "description": "Bought textbooks",
+    "amount": 112.49,
+    "category": "education"
+  },
+  {
+    "id": "39",
+    "date": "2025-07-14T00:00:00Z",
+    "description": "Seminar registration",
+    "amount": 66.11,
+    "category": "education"
+  },
+  {
+    "id": "40",
+    "date": "2025-07-02T00:00:00Z",
+    "description": "Educational app",
+    "amount": 297.93,
+    "category": "education"
+  },
+  {
+    "id": "41",
+    "date": "2025-07-18T00:00:00Z",
+    "description": "Online course",
+    "amount": 292.43,
+    "category": "education"
+  },
+  {
+    "id": "42",
+    "date": "2025-07-25T00:00:00Z",
+    "description": "Educational app",
+    "amount": 60.02,
+    "category": "education"
+  },
+  {
+    "id": "43",
+    "date": "2025-07-08T00:00:00Z",
+    "description": "Gift for friend",
+    "amount": 138.39,
+    "category": "miscellaneous"
+  },
+  {
+    "id": "44",
+    "date": "2025-07-15T00:00:00Z",
+    "description": "Pet supplies",
+    "amount": 12.6,
+    "category": "miscellaneous"
+  },
+  {
+    "id": "45",
+    "date": "2025-07-14T00:00:00Z",
+    "description": "Donation",
+    "amount": 76.25,
+    "category": "miscellaneous"
+  },
+  {
+    "id": "46",
+    "date": "2025-07-25T00:00:00Z",
+    "description": "Household supplies",
+    "amount": 98.91,
+    "category": "miscellaneous"
+  },
+  {
+    "id": "47",
+    "date": "2025-07-15T00:00:00Z",
+    "description": "Household supplies",
+    "amount": 43.59,
+    "category": "miscellaneous"
+  },
+  {
+    "id": "48",
+    "date": "2025-07-30T00:00:00Z",
+    "description": "Post office fees",
+    "amount": 95.06,
+    "category": "miscellaneous"
+  },
+  {
+    "id": "49",
+    "date": "2025-07-22T00:00:00Z",
+    "description": "Random purchase",
+    "amount": 88.17,
+    "category": "miscellaneous"
+  },
+  {
+    "id": "50",
+    "date": "2025-07-16T00:00:00Z",
+    "description": "Post office fees",
+    "amount": 127.2,
+    "category": "miscellaneous"
+  }
+]
